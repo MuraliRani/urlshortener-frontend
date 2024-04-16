@@ -1,9 +1,5 @@
 # URL SHORTENER - FrontEnd
 
-### [Live Server](https://makeasyurl.netlify.app/)
-
-
-
 ## Packages : 
 
 * Tailwind Css
